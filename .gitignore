@@ -175,3 +175,6 @@ cython_debug/
 
 static/
 staticaaa/
+
+# macOS
+.DS_Store
